@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
  
 import com.example.insurance.dto.PolicyDTO;
 import com.example.insurance.service.PolicyService;
-import com.example.insurance.service.UserService;
  
 import lombok.AllArgsConstructor;
  
